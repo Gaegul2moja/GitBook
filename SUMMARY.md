@@ -2,5 +2,6 @@
 
 * Android
     * [Chapter 1](android/Chapter1.md)
+    * [Chapter 2](android/Chapter2.md)
 
 
